@@ -1,0 +1,26 @@
+[
+    {
+        "lantai": "Lantai_1_Lamp",
+        "status": 0,
+        "alat": "lampu",
+        "statussensor": "Mati"
+    },
+    {
+        "lantai": "Lantai_1_AC",
+        "status": 0,
+        "alat": "ac",
+        "statussensor": "Mati"
+    },
+    {
+        "lantai": "Lantai_2_Lamp",
+        "status": 1,
+        "alat": "lampu",
+        "statussensor": "Menyala"
+    },
+    {
+        "lantai": "Lantai_2_AC",
+        "status": 0,
+        "alat": "ac",
+        "statussensor": "Mati"
+    }
+]
